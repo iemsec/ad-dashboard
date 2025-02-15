@@ -1,1 +1,1 @@
-C:\dev\AD-Dashboard\ad-dashboard\src\app\page.js
+/dev/AD-Dashboard/ad-dashboard/src/app/page.js

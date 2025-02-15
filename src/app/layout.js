@@ -1,1 +1,1 @@
-C:\dev\AD-Dashboard\ad-dashboard\src\app\layout.js
+/dev/AD-Dashboard/ad-dashboard/src/app/layout.js
